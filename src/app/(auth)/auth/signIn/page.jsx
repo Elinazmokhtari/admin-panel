@@ -116,6 +116,7 @@ function signIn() {
           </a>
         </Typography>
       </Card>
+      <h1>Lorem ipsum dolor sit.</h1>
     </div>
   );
 }
